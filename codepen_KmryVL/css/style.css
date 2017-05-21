@@ -1,0 +1,15 @@
+h1 {
+  font-family: Avenir;
+ }
+.special { 
+color: red;
+}
+.content{
+  background-color: #033;
+  color: white;
+  height: 60vH;
+}
+body{ font-family: Avenir;
+  color: white;
+  
+}
